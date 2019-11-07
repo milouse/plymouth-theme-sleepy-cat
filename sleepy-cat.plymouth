@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=sleepy-cat
+Description=This is a Plymouth theme with a cat animation.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/sleepy-cat/pictures
+ScriptFile=/usr/share/plymouth/themes/sleepy-cat/sleepy-cat.script
